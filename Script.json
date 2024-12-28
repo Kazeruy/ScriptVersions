@@ -18,5 +18,10 @@
         "GameName": "Anime Multiverse",
         "Version": "1.1",
         "Announcement": "+Release"
+    },
+        "10450270085": {
+        "GameName": "Jujutsu Infinite",
+        "Version": "1.2",
+        "Announcement": "+Fixed Auto Boss\n+Boss Insta Kill"
     }
 }
